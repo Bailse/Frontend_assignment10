@@ -1,0 +1,18 @@
+.Banner{
+    display: block;
+    padding: 5px;
+    margin: 0px;
+    width: 100vw;
+    height: 80vh;
+    position: relative;
+}
+
+.BannerText{
+
+    position: relative;
+    top : 100px;
+    z-index: 20;
+    text-align: center;
+    color: black;
+    
+}
